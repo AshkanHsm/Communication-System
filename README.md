@@ -1,6 +1,6 @@
 # Communication-System
 
-Multiplication and its effects on the signal and Quantization effects of Audio Signal
+Multiplication and its effects on the signal and Quantization effects of Audio Signal.
 
 Goal: A function that can add two sinus waves with the amplitude of 1 with the frequency F1 and F2 and the Sampling frequency Fs with the time length of T and the signals are discrete.
 Quantization of functions with Surfaces and level numbers that can quantize the sum of functions with the Surface levels and can dedicate some bits to each samples. A function that can produce the output of the Difference of a Signal and its quantization in amount of N levels.
